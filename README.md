@@ -33,7 +33,7 @@ The analysis covers:
 
 ## Dataset snapshot
 
-The CSV contains 48,620 sales-detail rows and 12 columns. The Excel workbook contains the same data for the dashboard analysis. The original publisher/source of the dataset was not included with the supplied files.
+The CSV contains 48,620 sales-detail rows and 12 columns. The Excel workbook contains the same data for the dashboard analysis. The original dataset file was supplied directly by the tutorial creator, [Data Tutorials](https://www.youtube.com/@datatutorials1).
 
 Across the full dataset, the calculations give approximately:
 
