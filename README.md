@@ -27,12 +27,15 @@ The analysis covers:
 |---|---|
 | `sql/pizza_sales_analysis.sql` | Readable SQL Server query script transcribed and formatted from the supplied PDF. |
 | `docs/PIZZA_SALES_SQL_QUERIES.pdf` | Original SQL query document. |
+| `data/pizza_sales.csv` | Raw sales dataset used for the analysis (48,620 rows, 12 columns). |
 | `dashboard/Pizza_Sales_Analysis.xlsx` | Excel workbook with the sales data, PivotTables, charts, and dashboard. Download and open in Excel to explore it. |
 | `dashboard/dashboard-preview.mp4` | Short dashboard walkthrough. The clip is filtered to Q1 2015; the workbook's KPI worksheet currently shows Q4 2015, so those period-specific values differ. |
 
 ## Dataset snapshot
 
-The workbook contains 48,620 sales-detail rows. Across the full dataset, the calculations give approximately:
+The CSV contains 48,620 sales-detail rows and 12 columns. The Excel workbook contains the same data for the dashboard analysis. The original publisher/source of the dataset was not included with the supplied files.
+
+Across the full dataset, the calculations give approximately:
 
 - Revenue: **$817,860.05**
 - Orders: **21,350**
